@@ -30,7 +30,7 @@ body {
 @keyframes loader-anim {
     0% {background-color: lightgreen; transform: scale(1); animation-timing-function: ease-in; }
     10% {background-color: magenta;  animation-timing-function: ease; }
-    50% {background-color: aqua; transform: scale(0.3); animation-timing-function: ease; }
+    50% {background-color: aqua; transform: scale(0.1); animation-timing-function: ease; }
     100% {background-color: lightgreen; transform: scale(1); animation-timing-function: ease; }
 }
 
